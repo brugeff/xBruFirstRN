@@ -1,2 +1,0 @@
-# xBruFirstRN
-Primeiro React Native
